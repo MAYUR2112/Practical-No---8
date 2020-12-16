@@ -1,0 +1,25 @@
+h2 {
+  color: green;
+  font-family: verdana;
+  font-size: 300%;
+}
+h4 {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+body {
+ background-image: url("Android Blog.jpg");
+ background-color: red;
+}
+h4 {
+  width: 300px;
+  margin: auto;
+  border: 5px solid red;
+}
+h2 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}

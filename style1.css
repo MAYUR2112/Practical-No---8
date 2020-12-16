@@ -1,0 +1,35 @@
+h1 {
+  color: yellow;
+  font-family: verdana;
+  font-size: 200%;
+}
+h2 {
+  color: red;
+  font-family: courier;
+  font-size: 150%;
+  width: 300px;
+  margin: auto;
+  border: 5px solid green;
+}
+body {
+ background-image: url("codeclub.png");
+ background-color: red;
+}
+h3 {
+  color: green;
+  width: 300px;
+  margin: auto;
+  border: 5px solid red;
+}
+article {
+  font-size: 125%;
+}
+code
+{
+  font-size: 125%;
+}
+samp
+{
+  font-size: 125%;
+}
+

@@ -1,0 +1,10 @@
+body
+{
+  background-image: url("quotes.jpg");
+}
+h1 {
+  color: red;
+  font-family: verdana;
+  font-size: 200%;
+}
+
